@@ -14,7 +14,7 @@ MIC, opcodes) and the OTA channel. [README на русском →](README.ru.md
 Dark room, one panel behind the MacBook — the light follows what's on the screen:
 
 <p align="center">
-  <video src="assets/demo.mp4" width="360"></video>
+  <a href="assets/demo.mp4"><img src="assets/demo.gif" width="360" alt="Ambilight demo: panel follows the screen (click for full-quality video)"></a>
 </p>
 
 ## Features

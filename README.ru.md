@@ -13,7 +13,7 @@
 Тёмная комната, панель за макбуком — свет следует за картинкой на экране:
 
 <p align="center">
-  <video src="assets/demo.mp4" width="360"></video>
+  <a href="assets/demo.mp4"><img src="assets/demo.gif" width="360" alt="Демо: панель следует за экраном (клик — полное качество)"></a>
 </p>
 
 ## Что умеет
