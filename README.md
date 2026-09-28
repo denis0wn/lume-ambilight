@@ -9,6 +9,14 @@ Everything here was reverse-engineered from the vendor app and verified against 
 panel — including the full Telink legacy-mesh protocol (pairing crypto, packet format,
 MIC, opcodes) and the OTA channel. [README на русском →](README.ru.md)
 
+## Demo
+
+Dark room, one panel behind the MacBook — the light follows what's on the screen:
+
+<p align="center">
+  <video src="assets/demo.mp4" width="360"></video>
+</p>
+
 ## Features
 
 - 🎬 **Ambilight mode** — the panel tracks the screen's dominant color at ~18 fps
